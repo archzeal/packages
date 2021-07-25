@@ -3,6 +3,7 @@ Repository of compiled packages for Archer OS.
 
 ## Packages
 
+- `i3lock-color`
 - `betterlockscreen`
 - `blight`
 - `colorpicker`
