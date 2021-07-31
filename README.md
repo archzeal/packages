@@ -12,4 +12,4 @@ Repository of compiled packages for Archer OS.
 - `ttf-feather`
 - `tty-clock`
 - `yay`
-
+- `oh-my-zsh-git`
