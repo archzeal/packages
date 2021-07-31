@@ -13,3 +13,4 @@ Repository of compiled packages for Archer OS.
 - `tty-clock`
 - `yay`
 - `oh-my-zsh-git`
+- `ttf-meslo-nerd-font-powerlevel10k`
