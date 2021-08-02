@@ -16,3 +16,5 @@ Repository of compiled packages for Archer OS.
 - `ttf-meslo-nerd-font-powerlevel10k`
 - `nerd-fonts-fira-code`
 - `zsh-theme-powerlevel10k-git`
+- `calamares`
+- `calamares-config`
