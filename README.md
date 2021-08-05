@@ -18,3 +18,4 @@ Repository of compiled packages for Archer OS.
 - `zsh-theme-powerlevel10k-git`
 - `calamares`
 - `calamares-config`
+- `grub-theme-slaze-color-1080p-git`
