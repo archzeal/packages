@@ -21,3 +21,4 @@ Repository of compiled packages for Archer OS.
 - `grub-theme-slaze-color-1080p-git`
 - `archlinux-lxdm-theme-full`
 - `kvantum-theme-adapta`
+- `ckbcomp`
