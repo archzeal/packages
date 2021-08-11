@@ -22,3 +22,4 @@ Repository of compiled packages for Archer OS.
 - `archlinux-lxdm-theme-full`
 - `kvantum-theme-adapta`
 - `ckbcomp`
+- `mkinitcpio-openswap`
